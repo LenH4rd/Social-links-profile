@@ -87,18 +87,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [a more modern css reset](https://piccalil.li/blog/a-more-modern-css-reset/) - This is a good css reset, you can tweak it with what you like but I used tweaked it with one of Kevil Powell's videos which is linked down below.
+- [A better css reset for your CSS](https://www.youtube.com/watch?v=345V2MU3E_w&t=24s) - This video talked about a better css reset along with kevin's own css reset.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@LenH4rd](https://www.frontendmentor.io/profile/LenH4rd)
 
 ## Acknowledgments
 
