@@ -107,3 +107,11 @@ textarea:not([rows]) {
   scroll-margin-block: 5ex;
 }
 
+body {
+  font-size: var(--fs-primary);
+  font-family: var(--ff-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--clr-neutral-offBlack);
+}
